@@ -1,8 +1,8 @@
-# I'm Alexandra! 👋
+# Holla, I'm Alexandra! 👋
 
 
 ## 🚀 About Me
-I'm a developer with skills ranging from web2 to web3 and maybe someday web5 😁
+I'm a developer with skills ranging from web2 to web3 and maybe someday web5 😁.<br />
 I am a Google WomentTechmaker ambassador, so when I am not planning products or wrting code
 I offer mentorships to tech youngies.
 Fun fact: I am a foodie and a die-hard WEEB!!
