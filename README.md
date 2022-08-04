@@ -3,21 +3,21 @@
 
 ## 🚀 About Me
 I'm a developer with skills ranging from web2 to web3 and maybe someday web5 😁.<br />
-I am a Google WomentTechmaker ambassador, so when I am not planning products or wrting code
+I am a Google WomentTechmaker ambassador, so when I am not planning products or coding<br />
 I offer mentorships to tech youngies.
 Fun fact: I am a foodie and a die-hard WEEB!!
 
 
 ## 🛠 Skills
 
-#Programming Language
-Level One: C#, Javascript
-Level Two: Solidity, Typescript
+# Programming Language
+Level One: C#, Javascript<br />
+Level Two: Solidity, Typescript<br />
 Level Three: Rust
 
-#Framework/Library
-Web2: ASP.NetCore React 
-Web3: Hardhat-Framework ChainLink-SDK OpenZeppelin-SDK EtherJs IPFS-HTTP-Client Slither Echnida
+# Framework/Library
+Web2: ASP.NetCore React <br />
+Web3: Hardhat-Framework ChainLink-SDK OpenZeppelin-SDK EtherJs IPFS-HTTP-Client Slither Echnida<br />
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) 
