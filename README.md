@@ -4,8 +4,8 @@
 ## 🚀 About Me
 I'm a developer with skills ranging from web2 to web3 and maybe someday web5 😁.<br />
 I am a Google WomentTechmaker ambassador, so when I am not planning products or coding<br />
-I offer mentorships to tech youngies.
-Fun fact: I am a foodie and a die-hard WEEB!!
+I offer mentorships to tech youngies.<br />
+** Fun fact: I am a foodie and a die-hard WEEB!! **
 
 
 ## 🛠 Skills
@@ -20,12 +20,12 @@ Web2: ASP.NetCore React <br />
 Web3: Hardhat-Framework ChainLink-SDK OpenZeppelin-SDK EtherJs IPFS-HTTP-Client Slither Echnida<br />
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/ogubuikealex) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogubuike-alex/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OgubuikeAlex)
 
 ## Preview Me👀🤝🏽
-👩‍💻 I'm currently working on a Web3 version of my fave Web2 Apphttps://linktr.ee/ogubuikealex
+👩‍💻 I'm currently working on a Web3 version of my fave Web2 App
 
 🧠 I'm currently learning about smart contract security
 
