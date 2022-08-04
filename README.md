@@ -1,4 +1,4 @@
-#I'm Alexandra! 👋
+# I'm Alexandra! 👋
 
 
 ## 🚀 About Me
@@ -24,7 +24,7 @@ Web3: Hardhat-Framework ChainLink-SDK OpenZeppelin-SDK EtherJs IPFS-HTTP-Client 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogubuike-alex/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OgubuikeAlex)
 
-## Other Common Github Profile Sections
+## Preview Me👀🤝🏽
 👩‍💻 I'm currently working on a Web3 version of my fave Web2 Apphttps://linktr.ee/ogubuikealex
 
 🧠 I'm currently learning about smart contract security
