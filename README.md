@@ -16,8 +16,8 @@ Level Two: Solidity, Typescript<br />
 Level Three: Rust
 
 ## Framework/Library
-Web2: ASP.NetCore <br /> React <br />
-Web3: 
+ASP.NetCore <br /> 
+React <br />
 Hardhat-Framework <br />
 ChainLink-SDK <br />
 OpenZeppelin-SDK <br />
