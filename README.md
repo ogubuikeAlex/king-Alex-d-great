@@ -5,7 +5,7 @@
 I'm a developer with skills ranging from web2 to web3 and maybe someday web5 😁.<br />
 I am a Google WomentTechmaker ambassador, so when I am not planning products or coding<br />
 I offer mentorships to tech youngies.<br />
-** Fun fact: I am a foodie and a die-hard WEEB!! **
+**Fun fact: I am a foodie and a die-hard WEEB!!**
 
 
 # 🛠 Skills
