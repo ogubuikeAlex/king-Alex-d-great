@@ -17,6 +17,7 @@ Level Three: Rust
 
 ## Framework/Library
 ASP.NetCore <br /> 
+NodeJS <br />
 React <br />
 Hardhat-Framework <br />
 ChainLink-SDK <br />
@@ -26,6 +27,18 @@ IPFS-HTTP-Client <br />
 web3.storage <br />
 Slither <br />
 Echnida <br />
+<br />
+
+## Database
+MySQL <br />
+MongoDB <br />
+<br />
+
+## Test
+xUnit <br />
+Chai <br />
+Mocha <br />
+Waffle <br />
 <br />
 
 # 🔗 Links
