@@ -2,8 +2,8 @@
 
 
 ## 🚀 About Me
-I'm a developer with skills ranging from web2 to web3 and maybe someday web5 😁.<br />
-I am a Google WomentTechmaker ambassador, so when I am not planning products or coding<br />
+I'm a developer with skills ranging from web2 to web3🙂<br />
+I am a Google WomenTechmaker Ambassador, so when I am not planning products or coding<br />
 I offer mentorships to tech youngies.<br />
 **Fun fact: I am a foodie and a die-hard WEEB!!**
 
@@ -32,6 +32,8 @@ Echnida <br />
 ## Database
 MySQL <br />
 MongoDB <br />
+SSMS <br />
+MongoDB Atlas <br />
 <br />
 
 ## Test
@@ -51,7 +53,7 @@ Waffle <br />
 
 🧠 I'm currently learning about smart contract security
 
-👯‍♀️ I'm looking to collaborate on converting Web2 products into Web3
+👯‍♀️ I'm looking to collaborate on converting building Web3 products
 
 🤔 I'm looking for help with gaining knowledge around blockchain security
 
