@@ -2,18 +2,16 @@
 
 
 ## 🚀 About Me
-I'm a developer with skills ranging from web2 to web3🙂<br />
-I am a Google WomenTechmaker Ambassador, so when I am not planning products or coding<br />
+I'm a backend-focused web3 software engineer🙂<br />
+I am also a Google WomenTechmaker Ambassador. When I am not planning products or coding<br />
 I offer mentorships to tech youngies.<br />
-**Fun fact: I am a foodie and a die-hard WEEB!!**
+**Fun fact: I am a foodie**
 
 
 # 🛠 Skills
 
 ## Programming Language
-Level One: C#, Javascript<br />
-Level Two: Solidity, Typescript<br />
-Level Three: Rust
+Level One: C#, Javascript, Solidity, Typescript<br />
 
 ## Framework/Library
 ASP.NetCore <br /> 
@@ -53,7 +51,7 @@ Waffle <br />
 
 🧠 I'm currently learning about smart contract security
 
-👯‍♀️ I'm looking to collaborate on converting building Web3 products
+👯‍♀️ I'm looking to collaborate on building Web3 products
 
 🤔 I'm looking for help with gaining knowledge around blockchain security
 
