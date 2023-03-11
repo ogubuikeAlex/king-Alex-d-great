@@ -6,9 +6,10 @@ Two words that best describe me? Proactive and Result-driven <br />
 **I like to get things done WELL and QUICKLY.**
 
 
-I am also a Google WomenTechmaker Ambassador. When I am not planning products or coding<br />
+I am also a Google WomenTechmaker Ambassador. When I am not designing product architecture or coding<br />
 I offer mentorships to tech youngies.<br />
-**Fun fact: I am a foodie**
+##### ⚡️I have a lot of super powers some of which i have hidden through out this page => 
+- Super power One: I am super easy to work with and I am one of the most energetic individuals you will ever meet
 ### [Check out some of my articles here](https://medium.com/@ogubuikealex)
 
 # 🛠 Skills
@@ -29,6 +30,8 @@ web3.storage <br />
 Slither <br />
 Echnida <br />
 <br />
+
+**⚡️CHECK THIS => Super power Two: I can read anywhere🙂 (even inside moving vehicles)**
 
 ## Database
 MySQL <br />
@@ -71,5 +74,5 @@ AWS <br />
 
 😄 Pronouns...(She/Her)
 
-⚡️ Fun fact...I learn at least 5 new things everyday🤞🏽☺️
+**⚡️CHECK THIS => Super power Three: I conciously learn at least 5 new things everyday**
 
