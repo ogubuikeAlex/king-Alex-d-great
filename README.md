@@ -1,6 +1,5 @@
-# Holla, I'm Alexandra! 👋
+# Holla, Meet Alexandra! 👋
 
-## 🚀 About Me
 Alex is a backend-focused web3 software engineer and technical writer🙂<br />
 Two words that best describe her? Proactive and Result-driven <br /> 
 **She likes to get things done WELL and QUICKLY.**
@@ -21,42 +20,42 @@ In terms of personality, she is easy going and probably one of the most energeti
 C#, Java, Javascript, Solidity, Typescript<br />
 
 ### Framework/Library
-ASP.NetCore <br /> 
-NodeJS <br />
-NestJS <br />
-React <br />
-Hardhat-Framework <br />
-ChainLink-SDK <br />
-OpenZeppelin-SDK <br />
-EtherJs<br />
-IPFS-HTTP-Client <br />
-web3.storage <br />
-Slither <br />
-Echnida <br />
-SpringBoot <br />
+🪟 ASP.NetCore <br /> 
+🪟 NodeJS <br />
+🪟 NestJS <br />
+🪟 React <br />
+🪟 Hardhat-Framework <br />
+🪟 ChainLink-SDK <br />
+🪟 OpenZeppelin-SDK <br />
+🪟 EtherJs<br />
+🪟 IPFS-HTTP-Client <br />
+🪟 web3.storage <br />
+🪟 Slither <br />
+🪟 Echnida <br />
+🪟 SpringBoot <br />
 <br />
 
 ### Database
-MySQL <br />
-Xata <br />
-MongoDB <br />
-SSMS <br />
-MongoDB Atlas <br />
+🛞 MySQL <br />
+🛞 Xata <br />
+🛞 MongoDB <br />
+🛞 SSMS <br />
+🛞 MongoDB Atlas <br />
 <br />
+
+### DevOps Tools
+🈺 Docker <br />
+🈺 Kubernetes <br />
+🈺 System Design <br />
+🈺 CICD via GitHub Actions <br />
+🈺 AWS <br />
 
 ### Unit and Integration Testing
-xUnit <br />
-Chai <br />
-Mocha <br />
-Waffle <br />
+🧪 xUnit <br />
+🧪 Chai <br />
+🧪 Mocha <br />
+🧪 Waffle <br />
 <br />
-
-### Others
-Docker <br />
-Kubernetes <br />
-System Design <br />
-CICD via GitHub Actions <br />
-AWS <br />
 
 # 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() 
@@ -80,5 +79,5 @@ AWS <br />
 
 😄 Pronouns...(She/Her)
 
-⚡️She conciously learn at least 5 new things everyday
+⚡️She conciously learns at least 5 new things everyday
 
