@@ -8,18 +8,22 @@ Two words that best describe me? Proactive and Result-driven <br />
 
 I am also a Google WomenTechmaker Ambassador. When I am not designing product architecture or coding<br />
 I offer mentorships to tech youngies.<br />
-##### ⚡️I have a lot of super powers some of which i have hidden through out this page => 
-- Super power One: I am super easy to work with and I am one of the most energetic individuals you will ever meet
-### [Check out some of my articles here](https://medium.com/@ogubuikealex)
+I am easy going and probably one of the most energetic individuals you may ever meet
 
-# 🛠 Skills
+## 📚 Libraries and Articles
+- I like to give the most simplified explanations to complex programming concepts. [You can check out some of my articles here](https://medium.com/@ogubuikealex)
+- I built some really cool .NET libraries on Nugget Packages [Check them out here](https://www.nuget.org/profiles/KingAlexandra)
+- I have also published some dope NPM packages, [Check them out here](https://www.npmjs.com/settings/kingalex/packages) 
 
-## Programming Language I Use
-C#, Javascript, Solidity, Typescript<br />
+## 🛠 Skills
 
-## Framework/Library
+### Programming Language I Use
+C#, Java, Javascript, Solidity, Typescript<br />
+
+### Framework/Library
 ASP.NetCore <br /> 
 NodeJS <br />
+NestJS <br />
 React <br />
 Hardhat-Framework <br />
 ChainLink-SDK <br />
@@ -29,27 +33,31 @@ IPFS-HTTP-Client <br />
 web3.storage <br />
 Slither <br />
 Echnida <br />
+SpringBoot <br />
 <br />
 
 **⚡️CHECK THIS => Super power Two: I can read anywhere🙂 (even inside moving vehicles)**
 
-## Database
+### Database
 MySQL <br />
+Xata <br />
 MongoDB <br />
 SSMS <br />
 MongoDB Atlas <br />
 <br />
 
-## Test
+### Unit and Integration Testing
 xUnit <br />
 Chai <br />
 Mocha <br />
 Waffle <br />
 <br />
 
-## Others
+### Others
 Docker <br />
-GitHub Actions <br />
+Kubernetes <br />
+System Design <br />
+CICD via GitHub Actions <br />
 AWS <br />
 
 # 🔗 Links
@@ -62,9 +70,9 @@ AWS <br />
 # Preview Me👀🤝🏽
 👩‍💻 I'm currently building and contributing to open source projects
 
-🧠 I'm currently learning about advanced decentralized finance
+🧠 I'm currently learning about designing and building cloud based distributed systems
 
-👯‍♀️ I'm looking to collaborate on building Web3 products
+👯‍♀️ I'm looking to collaborate on building Web2.5 and Web 2 based projects
 
 🤔 I'm looking for help with contibuting to web3 based open source projects
 
