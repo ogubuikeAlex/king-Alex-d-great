@@ -1,6 +1,6 @@
 # Holla, Meet Alexandra! 👋
 
-Alex is a backend-focused web3 software engineer and technical writer🙂<br />
+Alex is a backend-focused software engineer and technical writer🙂<br />
 Two words that best describe her? Proactive and Result-driven <br /> 
 **She likes to get things done WELL and QUICKLY.**
 
