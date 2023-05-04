@@ -12,7 +12,7 @@ In terms of personality, she is easy going and probably one of the most energeti
 ## 📚 Libraries and Articles
 - She loves to give the most simplified explanations to complex programming concepts. [You can check out some of her articles here](https://medium.com/@ogubuikealex)
 - She builds really cool .NET libraries on Nugget Packages [Check them out here](https://www.nuget.org/profiles/KingAlexandra)
-- Sha has publishes well tested and helpful NPM packages, [Check them out here](https://www.npmjs.com/settings/kingalex/packages) 
+- She has publishes well tested and helpful NPM packages, [Check them out here](https://www.npmjs.com/settings/kingalex/packages) 
 
 ## 🛠 Skills
 
