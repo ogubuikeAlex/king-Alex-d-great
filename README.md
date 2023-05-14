@@ -11,7 +11,7 @@ In terms of personality, she is easy going and probably one of the most energeti
 
 ## 📚 Libraries and Articles
 - She loves to give the most simplified explanations to complex programming concepts. [You can check out some of her articles here](https://medium.com/@ogubuikealex)
-- She has buily some really cool .NET libraries on Nugget Packages [Check them out here](https://www.nuget.org/profiles/KingAlexandra)
+- She has built some really cool .NET libraries on Nugget Packages [Check them out here](https://www.nuget.org/profiles/KingAlexandra)
 - She has also published well tested and helpful NPM packages, [Check them out here](https://www.npmjs.com/settings/kingalex/packages) 
 
 ## 🛠 Skills
