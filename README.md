@@ -17,7 +17,7 @@ In terms of personality, she is easy going and probably one of the most energeti
 ## 🛠 Skills
 
 ### Programming Language
-C#, Java, Javascript, Solidity, Typescript<br />
+C#, Javascript, Solidity, Typescript<br />
 
 ### Framework/Library
 🪟 ASP.NetCore <br /> 
