@@ -32,7 +32,6 @@ C#, Javascript, Solidity, Typescript<br />
 🪟 web3.storage <br />
 🪟 Slither <br />
 🪟 Echnida <br />
-🪟 SpringBoot <br />
 <br />
 
 ### Database
