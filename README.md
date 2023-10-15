@@ -5,8 +5,8 @@ Two words that best describe her? Proactive and Result-driven <br />
 **She likes to get things done WELL and QUICKLY.**
 
 
-She is a a Google WomenTechmaker Ambassador. When she is not designing product architecture or coding<br />
-she offers mentorships to tech youngies.<br />
+She is a Google WomenTechmaker Ambassador and a Product Pro ambassador at Consensys. When she is not designing product architecture or coding<br />
+she offers mentorships to tech newbies.<br />
 In terms of personality, she is easy going and probably one of the most energetic individuals you may ever meet.
 
 ## 📚 Libraries and Articles
